@@ -1,0 +1,1156 @@
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Disprine B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Disprine B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Disprine B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Disprine B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Disprine B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Disprine B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Disprine B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is B-MISC
+a I-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is B-MISC
+a I-MISC
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is B-MISC
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+tablet I-TABLET
+coated I-FORM
+flim B-FORM
+mg I-QUANT
+10 B-QUANT
+a I-MISC
+is B-MISC
+Fycompa B-TABLET
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+versed O
+well O
+2019 I-AUTH
+october I-AUTH
+26 B-AUTH
+is B-MISC
+authorization O
+of O
+date O
+
+tablet I-TABLET
+coated I-FORM
+flim B-FORM
+mg I-QUANT
+10 B-QUANT
+is B-MISC
+Fycompa B-TABLET
+
+versed O
+well O
+2019 I-AUTH
+october I-AUTH
+26 B-AUTH
+a I-MISC
+is B-MISC
+authorization O
+of O
+date O
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+tablet I-TABLET
+coated I-FORM
+flim B-FORM
+mg I-QUANT
+10 B-QUANT
+a I-MISC
+is B-MISC
+Fycompa B-TABLET
+
+versed O
+well O
+2019 I-AUTH
+october I-AUTH
+26 B-AUTH
+a I-MISC
+is B-MISC
+authorization O
+of O
+date O
+
+tablet I-TABLET
+coated I-FORM
+flim B-FORM
+mg I-QUANT
+10 B-QUANT
+a I-MISC
+is B-MISC
+Fycompa B-TABLET
+
+versed O
+well O
+2019 I-AUTH
+october I-AUTH
+26 B-AUTH
+a I-MISC
+is B-MISC
+authorization O
+of O
+date O
+
+tablet I-TABLET
+coated I-FORM
+flim B-FORM
+mg I-QUANT
+10 B-QUANT
+a I-MISC
+is B-MISC
+Fycompa B-TABLET
+
+versed O
+well O
+2019 I-AUTH
+october I-AUTH
+26 B-AUTH
+a I-MISC
+is B-MISC
+authorization O
+of O
+date O
+
+tablet I-TABLET
+coated I-FORM
+flim B-FORM
+mg I-QUANT
+10 B-QUANT
+a I-MISC
+is B-MISC
+Fycompa B-TABLET
+
+versed O
+well O
+2019 I-AUTH
+october I-AUTH
+26 B-AUTH
+a I-MISC
+is B-MISC
+authorization O
+of O
+date O
+
+tablet I-TABLET
+coated I-FORM
+flim B-FORM
+mg I-QUANT
+10 B-QUANT
+a I-MISC
+is B-MISC
+Fycompa B-TABLET
+
+versed O
+well O
+2019 I-AUTH
+october I-AUTH
+26 B-AUTH
+a I-MISC
+is B-MISC
+authorization O
+of O
+date O
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is O
+a O
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+tablet I-TABLET
+coated I-FORM
+flim B-FORM
+mg I-QUANT
+10 B-QUANT
+a O
+is O
+Fycompa B-TABLET
+
+date O
+of O
+authorization O
+is O
+a O
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is O
+a O
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+tablet I-TABLET
+coated I-FORM
+flim B-FORM
+mg I-QUANT
+10 B-QUANT
+a O
+is O
+Fycompa B-TABLET
+
+date O
+of O
+authorization O
+is O
+a O
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is O
+a O
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+tablet I-TABLET
+coated I-FORM
+flim B-FORM
+mg I-QUANT
+10 B-QUANT
+a O
+is O
+Fycompa B-TABLET
+
+date O
+of O
+authorization O
+is O
+a O
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is O
+a O
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+tablet I-TABLET
+coated I-FORM
+flim B-FORM
+mg I-QUANT
+10 B-QUANT
+a O
+is O
+Fycompa B-TABLET
+
+date O
+of O
+authorization O
+is O
+a O
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is O
+a O
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+tablet I-TABLET
+coated I-FORM
+flim B-FORM
+mg I-QUANT
+10 B-QUANT
+a O
+is O
+Fycompa B-TABLET
+
+date O
+of O
+authorization O
+is O
+a O
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is O
+a O
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+tablet I-TABLET
+coated I-FORM
+flim B-FORM
+mg I-QUANT
+10 B-QUANT
+a O
+is O
+Fycompa B-TABLET
+
+date O
+of O
+authorization O
+is O
+a O
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+date O
+of O
+authorization O
+is O
+a O
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+tablet I-TABLET
+coated I-FORM
+flim B-FORM
+mg I-QUANT
+10 B-QUANT
+a O
+is O
+Fycompa B-TABLET
+
+date O
+of O
+authorization O
+is O
+a O
+26 B-AUTH
+october I-AUTH
+2019 I-AUTH
+well O
+versed O
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Disprine B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Disprine B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Fycompa B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+Disprine B-TABLET
+is O
+a O
+10 B-QUANT
+mg I-QUANT
+flim B-FORM
+coated I-FORM
+tablet I-TABLET
+
+
+
+
+
+
+
