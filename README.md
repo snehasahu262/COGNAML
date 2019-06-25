@@ -1,7 +1,7 @@
 # COGNAML
 Medical entity extraction 
 
-Is a tensorflow implementation of Name Entity Extraction using Bi-LSTM with character level embedding
+tensorflow implementation of Name Entity Extraction using Bi-LSTM with character level embedding
 
 note:
 download glove embedding weights from the below link named : glove.6gb
